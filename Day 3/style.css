@@ -1,0 +1,21 @@
+* {
+  background-color: ;
+}
+
+.smallbox {
+  float: left;
+  margin-left: 1%;
+  height: 300px;
+  width: 300px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+}
+
+.smallbox > img {
+  width: 100%
+}
+
+.paragraph {
+  font-size: 11px;
+  text-align:center;
+}
