@@ -1,0 +1,54 @@
+* {
+  background-color: lightgrey;
+}
+
+.img1 {
+  height: 100px;
+  width: 200px;
+  border-radius: 50%
+}
+
+.vig {
+  height: 100px;
+  width: 100px;
+  align-items: center;
+  float: right;
+}
+
+.img2 {
+  border-color: black;
+  border-style: solid;
+  align-self: center;
+
+}
+
+.container {
+  font-style: italic;
+  font-family: Arial;
+  color:#04566E;
+  font-size: 25px;
+}
+
+.banner {
+  border-color: hotpink;
+  border-style: groove;
+  border-right-width: 1500px;
+}
+
+.smallbox {
+  float: left;
+  margin-left: 1%;
+  height: 300px;
+  width: 300px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+}
+
+.smallbox > img {
+  width: 100%
+}
+
+.paragraph {
+  font-size: 11px;
+  text-align:center;
+}
