@@ -8,7 +8,7 @@ const peterbmi = peterMkg/(peterHmeter*peterHmeter)
 const lucasbmi = lucasMkg/(lucasHmeter*lucasHmeter)
 
 console.log("Part A");
-console.log("The BMI of Peter is " + pbmi + " The BMI of Lucas is " + lbmi + " Lucas' BMI is higher than Petter’s BMI that is " + (lbmi>pbmi) + "!!" );
+console.log("The BMI of Peter is " + peterbmi + " The BMI of Lucas is " + lucasbmi + " Lucas' BMI is higher than Petter’s BMI that is " + (lucasbmi>peterbmi) + "!!" );
 
 // NOTE: Part B
 const celsius = Number(prompt('Please enter the celsius:'))
